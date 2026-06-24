@@ -80,7 +80,7 @@ export const DEFAULT_INTEGRATIONS_CONFIG: IntegrationConfig = {
   metaPixelId: '1234567890',
   gaTrackingId: 'G-XXXXXXXXXX',
   gtmId: 'GTM-XXXXXXX',
-  googleSheetsUrl: 'https://docs.google.com/spreadsheets/d/.../edit',
+  googleSheetsUrl: 'https://script.google.com/macros/s/AKfycbzZWKxmfadiFUU9iEUDxsauZJXDAdt9WUTniK95RTMsVbTzPP3VWvS4cRtuWDTjKIp0/exec',
   calendlyUrl: 'https://calendly.com/comercial-seracacau/30min',
   adminPassword: 'sensesales@admin',
 };
